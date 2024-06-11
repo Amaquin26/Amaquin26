@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaquin26" alt="amaquin26" /></a> </p>
 
-- 🔭 I’m currently working on **a freelance project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amaquin26](https://github.com/Amaquin26)
 
